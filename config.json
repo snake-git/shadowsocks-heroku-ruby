@@ -1,8 +1,8 @@
 {
-    "server":"ryy-shadowsocks.herokuapp.com",
+    "server":"socks123.herokuapp.com",
     "server_port":80,
     "local_port":1080,
-    "password":"bugme",
+    "password":"yeats531",
     "timeout":60,
     "method":"aes-256-cfb",
     "chnroute":true
